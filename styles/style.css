@@ -4,8 +4,8 @@
 
 body {
     padding-top: 3rem;
-    padding-bottom: 3rem;
     color: #5a5a5a;
+    background: #e8f1fa;;
   }
   
   
@@ -51,6 +51,11 @@ body {
 .first-slide{
   opacity: 50%;
 } 
+
+.footer-block {
+  padding-bottom: 3rem;
+}
+  
 
   
   /* MARKETING CONTENT
