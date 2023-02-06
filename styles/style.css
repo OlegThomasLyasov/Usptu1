@@ -48,6 +48,15 @@ body {
 .btn-main:hover {
     color:azure;
 }
+.lead {
+  padding-left: 1rem;
+}
+.list1, .list2 {
+  display: none;
+}
+.show {
+  display: block;
+}
 .first-slide{
   opacity: 50%;
 } 

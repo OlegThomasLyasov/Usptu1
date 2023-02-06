@@ -18,3 +18,9 @@ document.getElementById('btn5').onclick = function() {
     const el = document.getElementById('fifth-block');
      el.scrollIntoView({behavior: "smooth", block:"center"});
 }
+$(".btnList1").click(function(){
+    $(".list1").toggle('show')
+})
+$(".btnList2").click(function(){
+    $(".list2").toggle('show')
+})
