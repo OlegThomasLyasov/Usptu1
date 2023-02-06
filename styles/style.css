@@ -45,14 +45,19 @@ body {
     background-color: #05396a;
     color: white;
 }
+.btnList3,.btnList4{
+  display:none;
+}
 .btn-main:hover {
     color:azure;
 }
 .lead {
   padding-left: 1rem;
+  margin-bottom: 0;
 }
 .list1, .list2 {
   display: none;
+  margin-top: 0;
 }
 .show {
   display: block;
